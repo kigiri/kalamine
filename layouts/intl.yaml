@@ -3,6 +3,8 @@ name8: q-intl
 description: QWERTY layout, international variant
 version: 1.0.0
 geometry: ISO
+locale: us
+variant: intl
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓
