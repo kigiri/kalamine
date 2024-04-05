@@ -1,10 +1,10 @@
-name: qwerty-intl
-name8: q-intl
-description: QWERTY layout, international variant
+name: qwerty-pt-fr
+name8: qptfr
+description: QWERTY layout with French & Portuguese accents
 version: 1.0.0
 geometry: ISO
 locale: us
-variant: intl
+variant: qwertyptfr
 
 base: |
   ┌─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┬─────┲━━━━━━━━━━┓
